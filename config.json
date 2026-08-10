@@ -1,7 +1,8 @@
 {
-  "detector": "bms_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spider-man-brand-new-day/buytickets/ET00502600/{date}",
-  "min_references": 10
+  "detector": "venue_date",
+  "movie": "The End of Oak Street",
+  "requested_date": "20260810",
+  "venue_code": "INPT",
+  "venue_label": "INOX Prozone Mall, Coimbatore",
+  "url_template": "https://in.bookmyshow.com/cinemas/COIM/inox-prozone-mall-coimbatore/buytickets/INPT/20260810"
 }
