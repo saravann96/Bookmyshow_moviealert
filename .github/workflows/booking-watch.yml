@@ -1,4 +1,4 @@
-name: spidey-ticket-watch
+name: BMS-ticket-watch
 
 on:
   workflow_dispatch: {}   # manual trigger button, also hit remotely by cron-job.org
