@@ -1,8 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "The End of Oak Street",
-  "requested_date": "20260814",
+  "movie": "Toxic: A Fairy Tale for Grown-ups",
+  "requested_date": "20260826",
   "venue_code": "INPT",
   "venue_label": "INOX Prozone Mall, Coimbatore",
-  "url_template": "https://in.bookmyshow.com/cinemas/COIM/inox-prozone-mall-coimbatore/buytickets/INPT/20260814"
+  "url_template": "https://in.bookmyshow.com/cinemas/COIM/inox-prozone-mall-coimbatore/buytickets/INPT/20260826"
 }
