@@ -1,8 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "jailer-2",
-  "requested_date": "20261015",
+  "movie": "godzilla-minus-zero",
+  "requested_date": "20261120",
   "venue_code": "INPT",
   "venue_label": "INOX Prozone Mall, Coimbatore",
-  "url_template": "https://in.bookmyshow.com/cinemas/COIM/inox-prozone-mall-coimbatore/buytickets/INPT/20261015"
+  "url_template": "https://in.bookmyshow.com/cinemas/COIM/broadway-cinemas-coimbatore/buytickets/BWCB/20261120"
 }
