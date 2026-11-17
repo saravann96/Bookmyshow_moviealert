@@ -1,8 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "godzilla-minus-zero",
-  "requested_date": "20261120",
+  "movie": "avengers-doomsday",
+  "requested_date": "20261217",
   "venue_code": "INPT",
   "venue_label": "INOX Prozone Mall, Coimbatore",
-  "url_template": "https://in.bookmyshow.com/cinemas/COIM/broadway-cinemas-coimbatore/buytickets/BWCB/20261120"
+  "url_template": "https://in.bookmyshow.com/cinemas/COIM/broadway-cinemas-coimbatore/buytickets/BWCB/20261217"
 }
